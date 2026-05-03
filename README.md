@@ -18,7 +18,43 @@ I enjoy building complex systems, integrating AI workflows, and delivering produ
 
 ---
 
+# 🛠️ Personal Project
+
+## TikTok Video Cut Pro
+**Founder & Developer**  
+🌐 [https://tiktok-video-cut-pro.vercel.app](https://tiktok-video-cut-pro.vercel.app/vi)
+
+<img src="https://tiktok-video-cut-pro.vercel.app/_next/image?url=%2Flogo.png&w=384&q=75" width="80" />
+
+Desktop application for TikTok content creators — smart post-processing, dialogue cleanup, localization, and effects in a single workflow.
+
+**Highlights**
+
+- Built and launched a full desktop app as a solo founder
+- Designed product UX/UI and landing page from scratch
+- Implemented smart video trimming, subtitle cleaning, and localization features
+- Published landing page with bilingual support (Vietnamese & English)
+
+**Tech Stack**
+
+Tauri • React 
+
+---
+
 # 💼 Work Experience
+
+## Neovate Pte. Ltd
+**Frontend Developer**  
+Apr 2026 – Present | Remote (Singapore)  
+
+- Working remotely for a Singapore-based product company
+- Contributing to frontend development and product engineering
+
+**Tech Stack**
+
+*(To be updated)*
+
+---
 
 ## Vietnam Silicon
 **Frontend Engineer**  
@@ -185,6 +221,9 @@ https://quochuy-portfolio.vercel.app
 
 GitHub:  
 https://github.com/quochuy2405
+
+TikTok Video Cut Pro:  
+https://tiktok-video-cut-pro.vercel.app
 
 Email:  
 work.buiquochuy@gmail.com
