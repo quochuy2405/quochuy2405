@@ -50,9 +50,6 @@ Apr 2026 – Present | Remote (Singapore)
 - Working remotely for a Singapore-based product company
 - Contributing to frontend development and product engineering
 
-**Tech Stack**
-
-*(To be updated)*
 
 ---
 
