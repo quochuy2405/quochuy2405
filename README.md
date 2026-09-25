@@ -26,18 +26,27 @@ I enjoy building complex systems, integrating AI workflows, and delivering produ
 
 <img src="https://fivecutpro.com/_next/image?url=%2Flogo.png&w=384&q=75" width="80" />
 
-Desktop application for TikTok content creators — smart post-processing, dialogue cleanup, localization, and effects in a single workflow.
+# Five Cut Pro
 
-**Highlights**
+Five Cut Pro is a mobile video creation app built for KOCs, KOLs, and sellers who want to create product videos quickly without complicated editing.
 
-- Built and launched a full desktop app as a solo founder
-- Designed product UX/UI and landing page from scratch
-- Implemented smart video trimming, subtitle cleaning, and localization features
-- Published landing page with bilingual support (Vietnamese & English)
+The app provides ready-made video templates and step-by-step shooting guides, helping users capture the right footage and automatically turn their source clips into short-form sales videos ready for TikTok.
 
-**Tech Stack**
+## Highlights
 
-Tauri • React 
+- Built a mobile video creation platform for KOCs, KOLs, and online sellers
+- Designed the complete product UX/UI and multilingual experience
+- Created a template-based workflow for fast product video production
+- Added step-by-step shooting guides for each required camera angle
+- Implemented customizable video formulas for reusing different shot combinations
+- Automated video assembly from multiple source clips
+- Supported batch video creation for producing multiple variations efficiently
+- Optimized the workflow for vertical 9:16 videos and TikTok publishing
+- Prepared multilingual product experiences for international markets
+
+## Core Workflow
+
+Choose a template → Follow the shooting guide → Upload source clips → Automatically generate videos → Export & publish
 
 ---
 
