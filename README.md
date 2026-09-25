@@ -23,6 +23,7 @@ I enjoy building complex systems, integrating AI workflows, and delivering produ
 ## Five Cut Pro
 **Founder & Developer**  
 🌐 [Five Cut Pro](https://fivecutpro.com/)
+
 <img src="https://fivecutpro.com/_next/image?url=%2Flogo.png&w=384&q=75" width="80" />
 
 Desktop application for TikTok content creators — smart post-processing, dialogue cleanup, localization, and effects in a single workflow.
